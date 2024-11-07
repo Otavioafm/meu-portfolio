@@ -1,11 +1,9 @@
-/* Reset básico */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Corpo e Fonte */
 html {
     scroll-behavior: smooth; /* Ativa rolagem suave para o documento */
 }
